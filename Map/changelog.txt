@@ -1,0 +1,17 @@
+changelog = {
+[[v6: Added Kalmyr to Alarra speedwalk exits, have begun setting weight 10 in zones with hostiles so pathing will avoid those zones.]],
+[[v7: Version 6 was possibly broken...]],
+[[v8: Error correction]],
+[[v9: Added shop feature to shops in Hessa and Kalmyr, added boat and carriage map features as well]],
+[[v10: Removed signs in Hessa]],
+[[v11: Mapped the Dungeon of Trials]],
+[[v12: Fixed room 12037]],
+[[v13: Finished Kalmyr and Rhojidan. Added a lot of doors.]],
+[[v14: Reverted 13.]],
+[[v15: Re-mapped Rhojidan and Kalmyr. Fixed Carriage travel.]],
+[[v16: Added about 15 new areas]],
+[[v17: Dwarf Mines, Giants, Greywind]],
+[[v18: Changed boat feature to ferry, fixed a lot of room enviromment id's]],
+[[v19: Added a ton of areas - almost done with mapping the oceans]],
+[[v20: Re-mapped the oceans, the Bayou, added Orc Fortress, Draconian Crater, Aklars Abbey]],
+}

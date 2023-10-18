@@ -14,4 +14,5 @@ changelog = {
 [[v18: Changed boat feature to ferry, fixed a lot of room enviromment id's]],
 [[v19: Added a ton of areas - almost done with mapping the oceans]],
 [[v20: Re-mapped the oceans, the Bayou, added Orc Fortress, Draconian Crater, Aklars Abbey]],
+[[v20: Added most of The Darkened Shore, changed repositories]],
 }

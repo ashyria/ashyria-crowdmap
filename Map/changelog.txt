@@ -15,4 +15,5 @@ changelog = {
 [[v19: Added a ton of areas - almost done with mapping the oceans]],
 [[v20: Re-mapped the oceans, the Bayou, added Orc Fortress, Draconian Crater, Aklars Abbey]],
 [[v21: Added most of The Darkened Shore, changed repositories]],
+[[v22: Fixed some environments]],
 }
